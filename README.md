@@ -1,5 +1,5 @@
 # Oranssi4
-KDE Plasma väriteema
+KDE Plasma väriteema - Thème de coulour pour KDE Plasma - KDE Plasma colour scheme
 
 Tumman oranssi KDE Plasma väriteema - Dark orange KDE Plasma colour scheme
 
