@@ -1,9 +1,9 @@
 # Oranssi4
 KDE Plasma väriteema
 
-KDE Plasma väriteema
+Tumman oranssi KDE Plasma väriteema
 
-KDE Plasma colour scheme
+Dark orange KDE Plasma colour scheme
 
 Lightly sovelllustyylillä ja Rounded Rectangle ikoneilla
 
